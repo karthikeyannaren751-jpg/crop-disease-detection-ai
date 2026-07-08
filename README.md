@@ -51,7 +51,7 @@ Users can upload crop leaf images and the system predicts diseases with confiden
 📊 [Result](result.png)
 
 ### Ask Question Feature
-❓ [Ask](ask.png)
+❓ [Ask](ask.png)<br>
 🔍 [Ask1](ask1.png)
 
 ---
